@@ -1,0 +1,1000 @@
+Store_ID,Store_Name,Ownership_Type,Street_Address,City,State,Country,Postcode,Phone_Number,Timezone,Longitude,Latitude,Revenue,Profits,Gross_Profit_Margin,Number_of_Employees,Customers,Best_Selling_Item
+23149-228271,Banjara Hills,Joint Venture,"Lower Ground Floor, GVK One, Road Number 1, Banjara Hills",Hyderabad,AP,IN,500034,,GMT+05:30 Asia/New_Delhi,78.45,17.42,2.117,0.172,0.748,34,3980,Egg & Cheese Mu_n
+23191-228548,Kukatpally,Joint Venture,"Upper Ground Floor, Forum Sujana Mall, Kukatpally",Hyderabad,AP,IN,500072,,GMT+05:30 Asia/New_Delhi,78.39,17.48,1.059,0.055,0.442,25,1156,Sausage McMu_m
+23193-228546,Madhapur,Joint Venture,"Lower Ground Floor, Inorbit Mall, Madhapur",Hyderabad,AP,IN,500081,,GMT+05:30 Asia/New_Delhi,78.39,17.43,4.505,0.664,0.934,54,10347,Sausage & Egg McMu_m
+23180-228545,Jubilee Hills,Joint Venture,"Ground Floor, Road No. 92, Near Apollo hospital, Jubilee Hills",Hyderabad,AP,IN,500033,,GMT+05:30 Asia/New_Delhi,78.42,17.42,3.406,0.398,0.935,45,7415,Veg McMu_m
+24457-238129,Hi-Tech City,Joint Venture,"Upper Ground Floor, Phoenix tower A, Opposite Trident Hotel, Madhapur Village",Hyderabad,AP,IN,500084,,GMT+05:30 Asia/New_Delhi,78.38,17.45,7.333,1.657,0.252,78,17887,Veg Supreme Mu_n
+23664-232349,Mindspace,Joint Venture,"Mindspace, Hitech City",Hyderabad,AP,IN,500081,,GMT+05:30 Asia/New_Delhi,78.38,17.45,3.120,0.340,0.911,43,6652,Hot Cakes with Maple Syrup
+20874-208485,Punjabi Bagh,Joint Venture,"1/83, Ground Floor , Club Road, West Punjabi Bagh",Delhi,DL,IN,110026,,GMT+05:30 Asia/New_Delhi,77.13,28.67,5.195,0.865,0.857,60,12187,Hash Brown
+29491-254065,T3 Domestic Arrivals,Joint Venture,IGI Airport,Delhi,DL,IN,110037,,GMT+05:30 Asia/New_Delhi,77.12,28.57,7.732,1.832,0.078,81,18951,McEgg Burger
+22446-221249,HUDA Metro Station,Joint Venture,"Ground Floor, South Wing, HUDA Metro Station",Gurgaon,DL,IN,122009,,GMT+05:30 Asia/New_Delhi,77.07,28.46,2.114,0.171,0.747,34,3971,Chicken Maharaja Mac
+23392-229965,R K Puram,Joint Venture,"Sangam Courtyard, Major Somnath Marg, Sector 9, R.K Puram",New Delhi,DL,IN,110021,,GMT+05:30 Asia/New_Delhi,77.17,28.57,4.654,0.705,0.922,55,10744,McChicken
+25522-241268,Indira Gandhi International Airport,Joint Venture,"Domestic Departure, Terminal 1D",New Delhi,DL,IN,110037,,GMT+05:30 Asia/New_Delhi,77.12,28.56,6.478,1.310,0.561,71,15609,Filet-0-Fish
+23666-232345,Subhash Nagar,Joint Venture,"Ground Floor, Pacific Mall, Subhash Nagar",New Delhi,DL,IN,110018,,GMT+05:30 Asia/New_Delhi,77.11,28.64,5.647,1.011,0.776,64,13391,Chicken McGrill
+18971-197487,Vasant Kunj - Ambience Mall,Joint Venture,"1st Floor, Ambience Mall, Nelson Mandela Marg",New Delhi,DL,IN,110070,,GMT+05:30 Asia/New_Delhi,77.16,28.54,7.804,1.865,0.044,82,19143,McVeggie
+19363-201204,Saket,Joint Venture,"Ground Floor, Select City Walk Mall",New Delhi,DL,IN,110017,,GMT+05:30 Asia/New_Delhi,77.22,28.53,2.094,0.168,0.742,34,3917,McAloo Tikki
+19063-198205,Connaught Place - A Block,Joint Venture,"Hamilton House, A Block, Inner Circle",New Delhi,DL,IN,110001,,GMT+05:30 Asia/New_Delhi,77.22,28.63,4.741,0.730,0.914,56,10977,McSpicy Paneer Burger
+22570-222670,Connaught Place - N Block,Joint Venture,"N 16, N Block, Outer Circle, Connaught Place",New Delhi,DL,IN,110001,,GMT+05:30 Asia/New_Delhi,77.22,28.63,2.831,0.286,0.876,40,5884,BigSpicy Paneer Wrap
+24736-238828,Vasant Kunj - DLF Promenade,Joint Venture,"First Floor, DLF Promenade, Vasant Kunj",New Delhi,DL,IN,110070,,GMT+05:30 Asia/New_Delhi,77.16,28.54,7.048,1.536,0.365,75,17128,McSpicy Chicken Burger
+21764-215225,Pitampura,Joint Venture,"Ground Floor, HB Twin Towers, Netaji Subhash Pl, Pitampura",New Delhi,DL,IN,110034,,GMT+05:30 Asia/New_Delhi,77.15,28.69,1.305,0.076,0.526,28,1814,BigSpicy Chicken Wrap
+20176-203905,Greater Kailash 1,Joint Venture,"M Block Market, Greater Kailash 1",New Delhi,DL,IN,110048,,GMT+05:30 Asia/New_Delhi,77.24,28.55,4.207,0.585,0.948,52,9551,Regular Fries
+19513-197406,Indira Gandhi Itnl Arpt-T3Gate15,Joint Venture,"International Departure, Near Gate 15, Terminal  3",New Delhi,DL,IN,110037,,GMT+05:30 Asia/New_Delhi,77.1,28.56,5.798,1.063,0.743,65,13795,Medium Fries
+19514-197404,Indira Gandhi Itnl Arpt-T3Gate27,Joint Venture,"Domestic Departure, Near Gate 27, Terminal  3",New Delhi,DL,IN,110037,,GMT+05:30 Asia/New_Delhi,77.1,28.56,9.686,2.821,-1.060,97,24163,Large Fries
+27717-248629,Hauz Khas,Joint Venture,"Ground Floor, Power House, Hauz Khas Village, Hauz Khas",New Delhi,DL,IN,110016,,GMT+05:30 Asia/New_Delhi,77.19,28.55,1.897,0.142,0.695,32,3391,Veg Pizza McPu_
+22572-222668,Greater Kailash 2,Joint Venture,"Ground Floor, M-11, M-Block, Main Mrkt, Greater Kailash Pt2",New Delhi,DL,IN,110048,,GMT+05:30 Asia/New_Delhi,77.24,28.53,9.561,2.751,-0.972,96,23828,4 piece Chicken Nuggets
+25654-241824,M G Road,Joint Venture,"Upper Ground Floor, MGF Metropolis, M G Road",Gurgaon,HR,IN,122002,,GMT+05:30 Asia/New_Delhi,77.08,28.48,5.430,0.940,0.818,62,12812,6 piece Chicken Nuggets
+21333-211367,Sector 29,Joint Venture,"SCO 39, Ground Floor, Sector 29",Gurgaon,HR,IN,122001,,GMT+05:30 Asia/New_Delhi,77.06,28.47,5.496,0.961,0.806,62,12990,9 piece Chicken Nuggets
+29490-254064,One Horizon Center,Joint Venture,Golf Course Road,Gurgaon,HR,IN,122003,,GMT+05:30 Asia/New_Delhi,77.09,28.48,4.001,0.534,0.952,50,9002,Chicken Wings 2 Piece*
+21652-213925,DLF Cyber Hub,Joint Venture,"Ground Floor, DLF Cyber Hub, Phase II",Gurgaon,HR,IN,122002,,GMT+05:30 Asia/New_Delhi,77.09,28.5,5.690,1.026,0.767,64,13506,Chicken Wings 4 Piece*
+18973-197486,Ambience Island,Joint Venture,"Ground Floor, Ambience Mall, Ambience Island, NH 8",Gurgaon,HR,IN,110011,,GMT+05:30 Asia/New_Delhi,77.1,28.5,6.568,1.344,0.533,71,15849,Ketchup
+24737-238830,Sohna Road -,Joint Venture,"Grd Flr, Block C, Vatika Business Park, Sector 49, Sohna Road",Gurgaon,HR,IN,122001,,GMT+05:30 Asia/New_Delhi,77.05,28.41,6.940,1.492,0.406,74,16839,Barbecue Sauce
+21816-215552,Malleswaram - Orion Mall,Joint Venture,"Grd Flr Orion Mall, Brigade Gateway, Dr Rajkumar Road, Malleswaram",Bangalore,KA,IN,560055,,GMT+05:30 Asia/New_Delhi,77.56,13.01,1.777,0.127,0.664,31,3071,Mustard Sauce
+23293-229025,JP Nagar,Joint Venture,"100 feet ring road, K.A.S Officer, KAS Off HBCS layout,4th Phase,JP Nagar",Bangalore,KA,IN,560078,,GMT+05:30 Asia/New_Delhi,77.59,12.91,1.001,0.050,0.422,25,1003,Cheese Slice
+21965-216488,Mahadevapura,Joint Venture,"Upper Ground Floor, Phoenix Market City,, Whitefield Road, Mahadevapura",Bangalore,KA,IN,560048,,GMT+05:30 Asia/New_Delhi,77.7,13,6.851,1.456,0.437,74,16603,Chilli Sauce
+21606-213485,Koramangala,Joint Venture,"Ground Floor, 7th block, Near Forum Mall, Koramangla Industrial Layout",Bangalore,KA,IN,560095,,GMT+05:30 Asia/New_Delhi,77.61,12.94,2.035,0.160,0.729,34,3761,Regular Strawberry Milkshake
+22449-221247,Indiranagar,Joint Venture,"Grd Flr, Samrat Bldg, HAL II Stage, 100 ft Rd, Indiranagar",Bangalore,KA,IN,560038,,GMT+05:30 Asia/New_Delhi,77.64,12.97,2.868,0.292,0.881,41,5981,Medium Strawberry Milkshake
+23150-228269,Malleswaram - Mantri Mall,Joint Venture,"Upper grd flr,Mantri Mall,Mantri Sq No1, Sampangiram Nagar, Malleswaram",Bangalore,KA,IN,560003,,GMT+05:30 Asia/New_Delhi,77.57,12.99,7.953,1.934,-0.028,83,19541,Large Strawberry Milkshake
+23148-228268,Sadashiv Nagar,Joint Venture,"403, Ground Floor, 8th Main Road, Sadashiv Nagar",Bangalore,KA,IN,560080,,GMT+05:30 Asia/New_Delhi,77.58,13.01,2.236,0.189,0.773,35,4297,Regular Chocolate Milkshake
+24432-237928,Whitefield,Joint Venture,"Ground floor, Prestige Shantiniketan, Crescent 4, Whitefield Main Road",Bangalore,KA,IN,560048,,GMT+05:30 Asia/New_Delhi,77.73,12.99,6.413,1.285,0.581,70,15436,Medium Chocolate Milkshake
+22445-221246,Benniganahalli,Joint Venture,"Ground Floor, RMZ Infinity, The Bay, #3 Old Madras Road, Benniganahalli",Bangalore,KA,IN,560016,,GMT+05:30 Asia/New_Delhi,77.66,12.99,8.379,2.136,-0.247,86,20677,Large Chocolate Milkshake
+21743-215051,Church Street,Joint Venture,"Ground Floor, Prestige RR Building, 55 and 51/1 Church Street",Bangalore,MH,IN,560001,,GMT+05:30 Asia/New_Delhi,77.61,12.97,9.754,2.860,-1.108,98,24344,Regular Coca-Cola
+22456-221251,Prabhadevi,Joint Venture,"Upper Ground Floor, Century Bhavan, Century Bazaar, Prabhadevi",Mumbai,MH,IN,400030,,GMT+05:30 Asia/New_Delhi,72.82,19.01,7.028,1.528,0.373,75,17076,Medium Coca-Cola
+19524-202205,Malad West - Infiniti Mall,Joint Venture,"Upper Ground Floor, Infiniti Mall, Link Road,  Malad (West)",Mumbai,MH,IN,400064,,GMT+05:30 Asia/New_Delhi,72.83,19.18,8.857,2.376,-0.520,90,21951,Large Coca-Cola
+21450-211905,Santacruz West,Joint Venture,"Grd Flr Red Chillies Entertainment Bldg, Jct of 15th Rd and Ram Krishna MissionRd",Mumbai,MH,IN,400054,,GMT+05:30 Asia/New_Delhi,72.83,19.08,6.366,1.267,0.595,70,15310,Regular Fanta Orange
+22539-222210,Nariman Point,Joint Venture,"Ground Floor, Shree Nirmal Building, Behind Trident Hotel, Nariman Point",Mumbai,MH,IN,400021,,GMT+05:30 Asia/New_Delhi,72.82,18.93,3.513,0.421,0.941,46,7702,Medium Fanta Orange
+24458-238127,Andheri West - Four Bunglows,Joint Venture,"Kokilaben Dhirubhai Ambani Hospital, Four Bunglows, Andheri (West)",Mumbai,MH,IN,400053,,GMT+05:30 Asia/New_Delhi,72.82,19.13,6.564,1.343,0.534,71,15839,Large Fanta Orange
+20778-207865,Bandra West - Chapel road,Joint Venture,"Reclamation, Chapel Road, Near Lilavati Hospital",Mumbai,MH,IN,400050,,GMT+05:30 Asia/New_Delhi,72.83,19.05,1.871,0.139,0.689,32,3323,Regular Thums-up
+22452-221250,Andheri West - Infiniti Mall,Joint Venture,"Ground Floor, Infiniti Mall, New Link Road, Andheri (West)",Mumbai,MH,IN,400053,,GMT+05:30 Asia/New_Delhi,72.83,19.14,7.258,1.624,0.283,77,17687,Medium Thums-up
+19034-197924,Ghatkopar West,Joint Venture,"Gound Floor, R City Mall, Lal Bahadur Shastri Marg",Mumbai,MH,IN,400086,,GMT+05:30 Asia/New_Delhi,72.92,19.1,7.611,1.778,0.133,80,18630,Large Thums - up
+21329-210768,Thane West - Viviana Mall,Joint Venture,"Ground Floor, Viviana Mall, Thane West, Opp Eastern Express Highway",Mumbai,MH,IN,400606,,GMT+05:30 Asia/New_Delhi,72.97,19.21,8.214,2.057,-0.160,85,20238,Regular Sprite
+18409-190784,Elphinstone Road (West),Joint Venture,"First Floor, Tower 2 Lobby, Indiabulls Finance Centre",Mumbai,MH,IN,400013,,GMT+05:30 Asia/New_Delhi,72.84,19.01,5.313,0.902,0.839,61,12502,Medium Sprite
+23292-229027,Chhatrapati Shivaji Intnl-T2Arrival,Joint Venture,"International Arrivals, Andheri (East)",Mumbai,MH,IN,400099,,GMT+05:30 Asia/New_Delhi,72.87,19.1,1.097,0.058,0.456,26,1259,Large Sprite
+26082-243524,Bandra East - One BKC,Joint Venture,"A wing, Ground Floor, One BKC, G Block,BandraBurlaComplex,BandraEast",Mumbai,MH,IN,400051,,GMT+05:30 Asia/New_Delhi,72.85,19.06,6.586,1.351,0.527,72,15897,Diet Coke
+20457-205766,Thane West - Korum Mall,Joint Venture,"Upper Ground Level, Korum Mall, Off Eastern Express highway",Mumbai,MH,IN,400601,,GMT+05:30 Asia/New_Delhi,72.97,19.2,9.850,2.914,-1.176,99,24599,Kinley Water
+24734-238829,Vikhroli East,Joint Venture,"Ground Floor, Godrej One Building, Pirojshanagar, Vikhroli (East)",Mumbai,MH,IN,400079,,GMT+05:30 Asia/New_Delhi,72.92,19.09,4.600,0.690,0.927,55,10600,Minute Maid Nimbu Fresh
+21967-216487,Lower Parel - High Street Phoenix,Joint Venture,"First floor, High Street Phoenix Mall, Senapati Bapat Marg, Lower Parcel",Mumbai,MH,IN,400013,,GMT+05:30 Asia/New_Delhi,72.82,19,9.028,2.464,-0.624,92,22407,Minute Maid Pulpy Orange
+24199-236567,Bandra West - Link corner,Joint Venture,"Off Linking Road, Corner of 24th & 33rd Rd, Bandra West",Mumbai,MH,IN,400050,,GMT+05:30 Asia/New_Delhi,72.83,19.07,9.313,2.616,-0.806,94,23167,Cold Co_ee
+25658-242046,Vile Parle West,Joint Venture,"Grd Flr, Tian Star, 48 Gulmohar Road, Juhu Scheme, Vile Parle (West)",Mumbai,MH,IN,400049,,GMT+05:30 Asia/New_Delhi,72.83,19.11,6.441,1.296,0.573,70,15510,Ice Tea
+23290-229028,Chhatrapati Shivaji International A,Joint Venture,"T2 Departure SHA, Level P9, Food Court, Andheri (East)",Mumbai,MH,IN,400099,,GMT+05:30 Asia/New_Delhi,72.88,19.1,8.548,2.219,-0.340,88,21127,McFloat Coke
+19530-197407,Bandra East - FIFC,Joint Venture,"First International Financial Centre, Bandra Kurla Complex Road, Bandra (East)",Mumbai,MH,IN,400051,,GMT+05:30 Asia/New_Delhi,72.87,19.07,9.918,2.953,-1.225,99,24781,McFloat Fanta
+18224-189164,Colaba,Joint Venture,"Hotel Taj Mahal Palace, Apollo Bunder, Apollo Bunder, Opp. Gateway of India",Mumbai,MH,IN,400005,,GMT+05:30 Asia/New_Delhi,72.83,18.92,4.745,0.731,0.914,56,10985,McFloat Sprite
+24456-238128,Kurla West,Joint Venture,"First Floor, Phoenix Market City, Lal Bahadur Shastri Marg, Kurla (West)",Mumbai,MH,IN,400070,,GMT+05:30 Asia/New_Delhi,72.89,19.09,6.942,1.493,0.405,75,16844,McFloat Cold Co_ee
+26081-243527,Malad West - Inorbit Mall,Joint Venture,"Ground Floor, Inorbit Mall, Link Road,  Malad (West)",Mumbai,MH,IN,400064,,GMT+05:30 Asia/New_Delhi,72.84,19.17,4.350,0.622,0.943,53,9932,SoG Serve cone
+21709-214285,Bandra East - The Capital,Joint Venture,"Ground Floor, The Capital, Bandra Kurla Complex, Bandra (East)",Mumbai,MH,IN,400051,,GMT+05:30 Asia/New_Delhi,72.86,19.06,4.536,0.672,0.931,54,10429,McSwirl ChocoDip
+18649-193713,Powai,Joint Venture,"Prudential Bldg Hiranandani Bus Park, Gr Fl, Central Avenue Road",Mumbai,MH,IN,400076,,GMT+05:30 Asia/New_Delhi,72.91,19.12,9.021,2.461,-0.620,92,22390,McSwirl Butterscotch ChocoDip
+17857-186566,Goregaon East - Oberoi Mall,Joint Venture,"Off Western Express Highway, Goregaon (East)",Mumbai,MH,IN,400063,,GMT+05:30 Asia/New_Delhi,72.86,19.17,2.101,0.169,0.744,34,3937,Regular SoG Serve - Hot Fudge
+19618-200365,Chhatrapati Shivaji DomesticAirport,Joint Venture,"Domestic Arrivals, Terminal 1B, Santa Cruz (East)",Mumbai,MH,IN,400099,,GMT+05:30 Asia/New_Delhi,72.86,19.09,5.746,1.045,0.755,65,13655,Medium soG Serve - Hot Fudge
+21105-209366,Juhu,Joint Venture,"Ground Floor, Hotel Bawa Continental, Juhu Tara Road",Mumbai,MH,IN,400049,,GMT+05:30 Asia/New_Delhi,72.83,19.1,7.180,1.592,0.314,77,17481,Regular SoG Serve - Strawberry
+21818-215805,Kandivali West,Joint Venture,"Ground Floor, V Souk, Sector 10, Mahavir Nagar, Kandivali (West)",Mumbai,MH,IN,400067,,GMT+05:30 Asia/New_Delhi,72.84,19.21,6.201,1.206,0.642,68,14870,Medium SoG Serve - Strawberry
+22047-217305,Vashi,Joint Venture,"Ground Floor, Inorbit Mall, Sector 30A, Vashi",Navi Mumbai,MH,IN,400705,,GMT+05:30 Asia/New_Delhi,73,19.07,8.389,2.141,-0.253,87,20705,Walnut Brownie with Hot Fudge -Regular
+20477-206185,Viman Nagar,Joint Venture,"Ground floor, Phoenix Market City, Viman Nagar",Pune,MH,IN,411014,,GMT+05:30 Asia/New_Delhi,73.92,18.56,7.899,1.909,-0.001,82,19398,Walnut Brownie with Hot Fudge - Medium
+25677-236568,Sangam Solitaire,Joint Venture,"Sangam Press Road, Kothrud",Pune,MH,IN,411029,,GMT+05:30 Asia/New_Delhi,73.82,18.5,2.167,0.179,0.759,35,4112,McFlurry-Oreo Small
+21819-215804,Aundh,Joint Venture,"Ground floor, Centriole, Anand Park, ITI Road, Aundh",Pune,MH,IN,411008,,GMT+05:30 Asia/New_Delhi,73.81,18.56,3.417,0.400,0.935,45,7446,McFlurry - Oreo Regular
+21828-215807,Magarpatta,Joint Venture,"First Floor, Seasons Mall, Magarpatta City, Hadapsar",Pune,MH,IN,411028,,GMT+05:30 Asia/New_Delhi,73.93,18.52,2.655,0.255,0.850,39,5413,McFlurry ChocoCrunch Small
+20455-205764,Koregaon Park,Joint Venture,"1 Galaxy Gardens, North Main Road",Pune,MH,IN,411001,,GMT+05:30 Asia/New_Delhi,73.89,18.54,9.017,2.459,-0.618,92,22379,McFlurry ChocoCrunch Regular
+22444-221266,Kharadi,Joint Venture,"Ground Floor, EON Free Zone, Cluster A, MIDC, Kharadi Knowledge Park",Pune,MH,IN,411014,,GMT+05:30 Asia/New_Delhi,73.95,18.55,6.094,1.167,0.671,67,14583,Black Tea
+21335-210964,Hadapsar,Joint Venture,"Ground Floor, West Block, Amanora Town Centre, Hadapsar",Pune,MH,IN,411028,,GMT+05:30 Asia/New_Delhi,73.94,18.52,2.724,0.267,0.861,39,5597,Tea with Milk
+23144-228270,FC Road,Joint Venture,"Mosaic Ground Floor West, Across Fergusson College Gate 2, FC Rd",Pune,MH,IN,411004,,GMT+05:30 Asia/New_Delhi,73.84,18.52,7.709,1.822,0.088,81,18891,Black co_ee
+26083-243525,Numgambakkam,Joint Venture,"Ground Floor, Bergamo Mall, Khadar Nawas Khan Road",Chennai,TN,IN,600006,,GMT+05:30 Asia/New_Delhi,80.25,13.06,2.249,0.191,0.776,35,4332,Co_ee with Milk
+25647-242045,Royapettah,Joint Venture,"Ground Floor, Express Avenue Mall, Whites Road, Royapettah",Chennai,TN,IN,600014,,GMT+05:30 Asia/New_Delhi,80.26,13.06,3.265,0.369,0.924,44,7041,Masala Veg
+25269-240401,Anna Nagar,Joint Venture,"TBR tower, Y block, 2nd Avenue, Near Ayyappa Temple, Anna Nagar",Chennai,TN,IN,600040,,GMT+05:30 Asia/New_Delhi,80.21,13.09,2.425,0.217,0.811,37,4801,Masala Non Veg
+23145-228267,Velachery,Joint Venture,"Upper Ground Floor, Phoenix marketcity, Velachery Main Road",Chennai,TN,IN,600042,,GMT+05:30 Asia/New_Delhi,80.22,12.99,8.461,2.177,-0.292,87,20896,Saucy Aloo Wrap
+27719-248626,Alwarpet,Joint Venture,"Ground Floor, MGN Splendor, Off Chamiers Road, Alwarpet",Chennai,TN,IN,600018,,GMT+05:30 Asia/New_Delhi,80.25,13.03,7.895,1.907,0.000,82,19387,Saucy Chicken Wrap
+25065-239844,Sector 16,Joint Venture,"Ground Floor, Gardens Galleria, Sector 16",Noida,UP,IN,201301,,GMT+05:30 Asia/New_Delhi,77.33,28.57,3.213,0.358,0.920,43,6901,Saucy Egg Wrap
+10429-100710,Palmdale & Hwy 395,Company Owned,14136 US Hwy 395,Adelanto,CA,US,923016700,760-530-9252,GMT-08:00 America/Los_Angeles,-117.4,34.51,19.345,1.056,7.957,62,1442,Egg McMuffin
+635-352,Kanan & Thousand Oaks,Company Owned,5827 Kanan Road,Agoura,CA,US,913011651,(818) 735-0268,GMT-08:00 America/Los_Angeles,-118.76,34.16,15.228,1.937,3.830,51,8415,Egg White Delight
+74510-27669,Vons-Agoura Hills #2001,Licensed,5671 Kanan Rd.,Agoura Hills,CA,US,913013358,818-991-2857,GMT-08:00 America/Los_Angeles,-118.76,34.15,28.631,4.168,6.047,89,10174,Sausage McMuffin
+29839-255026,Target Anaheim T-0677,Licensed,8148 E SANTA ANA CANYON ROAD,AHAHEIM,CA,US,92808,714-921-9091,GMT-08:00 America/Los_Angeles,-117.75,33.87,24.355,4.389,3.287,77,13501,Sausage McMuffin with Egg
+23463-230284,Safeway - Alameda 3281,Licensed,2600 5th Street,Alameda,CA,US,94501,510-523-1804,GMT-08:00 America/Los_Angeles,-122.28,37.79,39.627,11.401,-4.023,120,23819,Sausage McMuffin with Egg Whites
+6479-62999,Park & Central Alameda,Company Owned,1364 Park Street,Alameda,CA,US,945014542,510-521-5815,GMT-08:00 America/Los_Angeles,-122.24,37.76,23.243,6.157,-1.193,74,21629,Steak & Egg McMuffin
+5535-728,Webster & Atlantic - Alameda,Company Owned,720 Atlantic Avenue,Alameda,CA,US,945012176,510-337-1580,GMT-08:00 America/Los_Angeles,-122.28,37.78,31.315,8.065,-1.102,97,20925,"Bacon, Egg & Cheese Biscuit (Regular Biscuit)"
+74877-100291,Safeway - Alameda #2708,Licensed,2227 South Shore Center,Alameda,CA,US,945018029,510-863-9000,GMT-08:00 America/Los_Angeles,-122.25,37.76,41.178,6.695,7.154,125,11809,"Bacon, Egg & Cheese Biscuit (Large Biscuit)"
+11161-103516,Tilden & Blanding,Company Owned,"2671 Blanding Avene, D",Alameda,CA,US,945011587,510-337-1091,GMT-08:00 America/Los_Angeles,-122.23,37.77,19.332,3.990,1.496,62,16012,"Bacon, Egg & Cheese Biscuit with Egg Whites (Regular Biscuit)"
+19859-196187,Target Alameda T-2829,Licensed,2700 Fifth St,Alameda,CA,US,94501,510-241-0931,GMT-08:00 America/Los_Angeles,-122.28,37.78,29.211,5.813,2.735,91,15304,"Bacon, Egg & Cheese Biscuit with Egg Whites (Large Biscuit)"
+79518-102650,Vons - San Diego #2040,Licensed,5555 Balboa Ave,San Diego,CA,US,921112703,858-279-4661,GMT-08:00 America/Los_Angeles,-117.18,32.82,36.304,9.871,-2.424,111,22303,Sausage Biscuit (Regular Biscuit)
+75229-94473,San Diego Conv Ctr - Lobby C,Licensed,111 West Harbor Drive,San Diego,CA,US,921017822,619-525-5821,GMT-08:00 America/Los_Angeles,-117.16,32.71,33.071,8.523,-1.175,102,20940,Sausage Biscuit (Large Biscuit)
+73584-23068,Albertsons-San Dimas #6594,Licensed,SEC San Dimas & Bonita,San Dimas,CA,US,91773,909-599-8836,GMT-08:00 America/Los_Angeles,-117.8,34.11,41.459,10.005,0.021,126,19368,Sausage Biscuit with Egg (Regular Biscuit)
+5317-861,San Dimas,Company Owned,942 W. Arrow Highway,San Dimas,CA,US,917732419,(909) 599-7338,GMT-08:00 America/Los_Angeles,-117.83,34.11,19.254,3.441,2.662,62,13356,Sausage Biscuit with Egg (Large Biscuit)
+76658-99293,Target San Dimas T-767,Licensed,"888 W Arrow Hwy, San Dimas",San Dimas,CA,US,917732495,9093940335,GMT-08:00 America/Los_Angeles,-117.82,34.1,27.410,5.288,2.933,85,14721,Sausage Biscuit with Egg Whites (Regular Biscuit)
+9253-96095,"Bonita & San Dimas, San Dimas",Company Owned,"114 E. Bonita Avenue, Mission Plaza",San Dimas,CA,US,917733003,909-592-2791,GMT-08:00 America/Los_Angeles,-117.81,34.11,29.549,2.155,10.963,92,3200,Sausage Biscuit with Egg Whites (Large Biscuit)
+5915-34639,Truman & Maclay,Company Owned,"1135 Truman Street, San Francisco Centre",San Fernando,CA,US,913403200,818-837-0337,GMT-08:00 America/Los_Angeles,-118.44,34.28,22.122,1.874,7.634,70,4332,Southern Style Chicken Biscuit (Regular Biscuit)
+28316-250007,Teavana - San Francisco Centre,Company Owned,"865 Market St., #324",San Francisco,CA,US,94103,415-512-7205,GMT-08:00 America/Los_Angeles,-122.41,37.78,38.520,8.076,2.704,117,16326,Southern Style Chicken Biscuit (Large Biscuit)
+5396-1025,Church & Market - S.F.,Company Owned,2018 Market Street,San Francisco,CA,US,941141314,(415) 431-5561,GMT-08:00 America/Los_Angeles,-122.43,37.77,16.188,2.140,3.896,53,8888,Steak & Egg Biscuit (Regular Biscuit)
+611-409,120 4th Street,Company Owned,120 4th Street,San Francisco,CA,US,941033004,(415) 284-0579,GMT-08:00 America/Los_Angeles,-122.4,37.78,27.471,7.224,-1.295,86,21446,"Bacon, Egg & Cheese McGriddles"
+7441-1994,164 7th Avenue,Company Owned,166 7th Avenue,Brooklyn,NY,US,112152222,718-369-3098,GMT-05:00 America/New_York,-73.98,40.67,33.659,6.032,4.617,103,13404,"Bacon, Egg & Cheese McGriddles with Egg Whites"
+15847-160724,Target Gateway T-1401,Licensed,519 Gateway Dr,Brooklyn,NY,US,112392801,718-235-6032,GMT-05:00 America/New_York,-73.87,40.65,48.779,5.765,13.240,147,7545,Sausage McGriddles
+29856-255547,7th Ave and 9th St,Company Owned,444 Ninth St.,Brooklyn,NY,US,11215,9292148871,GMT-05:00 America/New_York,-73.98,40.67,18.486,5.035,-1.252,60,22345,"Sausage, Egg & Cheese McGriddles"
+7381-1628,Elmwood Avenue,Company Owned,933 Elmwood Avenue,Buffalo,NY,US,142221211,(716) 882-5440,GMT-05:00 America/New_York,-78.88,42.92,48.291,8.185,7.656,145,12472,"Sausage, Egg & Cheese McGriddles with Egg Whites"
+7799-63000,Delaware & Kenmore,Company Owned,2730 Delaware Avenue,Buffalo,NY,US,142161146,716-877-3800,GMT-05:00 America/New_York,-78.87,42.96,32.226,6.627,2.547,99,15941,"Bacon, Egg & Cheese Bagel"
+29171-154526,Hyatt Buffalo,Licensed,"2 Fountain Plaza, Walden Galleria",Buffalo,NY,US,142022220,716-856-1234,GMT-05:00 America/New_York,-78.87,42.89,32.486,3.893,8.700,100,7703,"Bacon, Egg & Cheese Bagel with Egg Whites"
+28439-249800,Teavana - Walden Galleria,Company Owned,"1 GALLERIA DRIVE, SPACE# L 117",BUFFALO,NY,US,14225,716-685-3100,GMT-05:00 America/New_York,-78.76,42.92,26.670,1.814,10.181,83,2731,"Steak, Egg & Cheese Bagel"
+7448-6486,235 Delaware Ave,Company Owned,"235 Delaware Avenue, Parkway Plaza",Buffalo,NY,US,142022008,716-853-2356,GMT-05:00 America/New_York,-78.88,42.89,33.239,8.313,-0.625,102,20211,Big Breakfast (Regular Biscuit)
+13353-105357,Canadaigua,Company Owned,10 Muar St.,Canandaigua,NY,US,144242321,585-394-6970,GMT-05:00 America/New_York,-77.26,42.88,36.655,7.398,3.204,112,15576,Big Breakfast (Large Biscuit)
+70083-139594,NY Chittenango Travel Plaza,Licensed,"2188 Tag Rd, Putnam Plaza",Canastota,NY,US,130324561,315-687-0015,GMT-05:00 America/New_York,-75.84,43.1,38.099,9.288,-0.188,116,19605,Big Breakfast with Egg Whites (Regular Biscuit)
+17665-183831,Target Colerain T-1545,Licensed,9040 Colerain Ave,Cincinnati,OH,US,45251,,GMT-05:00 America/New_York,-84.59,39.24,18.021,2.317,4.480,59,8541,Big Breakfast with Egg Whites (Large Biscuit)
+19787-189469,Kroger - Cincinnati #428,Licensed,4777 Kenard Avenue,Cincinnati,OH,US,45232,513-681-7650,GMT-05:00 America/New_York,-84.51,39.16,15.004,3.169,1.002,50,16477,Big Breakfast with Hotcakes (Regular Biscuit)
+75221-94079,U of Cincinnati Student Life Ctr,Licensed,45 W Charlton St,Cincinnati,OH,US,452191926,513-556-1255,GMT-05:00 America/New_York,-84.51,39.13,37.755,2.670,14.190,115,2989,Big Breakfast with Hotcakes (Large Biscuit)
+2212-639,Mariemont/The Strand,Company Owned,"6800 Wooster Pike, University Square",Cincinnati,OH,US,452274324,(513) 272-6839,GMT-05:00 America/New_York,-84.38,39.15,19.026,1.711,6.347,62,4834,Big Breakfast with Hotcakes and Egg Whites (Regular Biscuit)
+2420-201504,University Square,Company Owned,"234 Calhoun Street, 5107",Cincinnati,OH,US,45219,5132813100,GMT-05:00 America/New_York,-84.52,39.13,22.264,2.298,6.777,71,6107,Big Breakfast with Hotcakes and Egg Whites (Large Biscuit)
+73876-103619,Kroger-Cincinnati #948,Licensed,6165 Glenway Avenue,Cincinnati,OH,US,452116338,513-719-2401,GMT-05:00 America/New_York,-84.62,39.14,42.039,5.604,10.011,127,8998,Hotcakes
+21456-209565,CLE C371,Licensed,Cleveland Hopkins International Airport,Cleveland,OH,US,44181,,GMT-05:00 America/New_York,-81.84,41.41,19.808,2.188,5.712,64,6806,Hotcakes and Sausage
+75224-93773,CWRU - Residential Village,Licensed,1677 E 115th Street,Cleveland,OH,US,441061712,216-469-6684,GMT-05:00 America/New_York,-81.6,41.51,36.052,9.727,-2.241,110,22102,Sausage Burrito
+76740-99373,Target Cleveland South T-2228,Licensed,3465 Steelyard Dr,Cleveland,OH,US,441092385,216-325-1107,GMT-05:00 America/New_York,-81.69,41.46,49.044,12.418,-1.255,147,20506,Cinnamon Melts
+15313-159926,Safeway-Palmer #1739,Licensed,664 W Evergreen Ave,Palmer,AK,US,996456535,907-761-1400,GMT-09:00 America/Anchorage,-149.13,61.6,38.444,2.854,14.151,117,3328,Fruit & Maple Oatmeal
+72980-94694,Fred Meyer - Palmer #649,Licensed,650 N Cobb St,Palmer,AK,US,996456387,907-761-4200,GMT-09:00 America/Anchorage,-149.12,61.6,45.553,11.772,-1.690,137,21008,Fruit & Maple Oatmeal without Brown Sugar
+74706-97007,Safeway-Seward #2728,Licensed,1907 Seward Hwy,Seward,AK,US,99664,,GMT-09:00 America/Anchorage,-149.43,60.13,35.869,3.891,10.502,110,6613,Big Mac
+72946-94692,Fred Meyer-Soldotna #17,Licensed,43843 Sterling Hwy,Soldotna,AK,US,996697640,907-260-2200,GMT-09:00 America/Anchorage,-151.05,60.49,24.774,4.752,2.711,78,14615,Quarter Pounder with Cheese
+74695-94706,Safeway-Soldotna #548,Licensed,44282 Sterling Hwy S,Soldotna,AK,US,996698033,907-714-5400,GMT-09:00 America/Anchorage,-151.07,60.48,36.640,5.227,7.971,112,9896,Quarter Pounder with Bacon & Cheese
+17912-136436,Parks Hwy & Palmer Wasilla Hwy,Company Owned,"1771 East Parks Hwy, Unit #4",Wasilla,AK,US,996548104,907-376-6055,GMT-09:00 America/Anchorage,-149.41,61.58,18.388,4.747,-0.670,60,20980,Quarter Pounder with Bacon Habanero Ranch
+4146-104969,Safeway - Wasilla #1811,Licensed,595 E Parks Hwy,Wasilla,AK,US,996548102,907-352-1100,GMT-09:00 America/Anchorage,-149.44,61.58,39.336,6.715,6.131,120,12589,Quarter Pounder Deluxe
+76916-131305,Target Wasilla T-2339,Licensed,1801 E Parks Hwy,Wasilla,AK,US,996547350,907-631-7200,GMT-09:00 America/Anchorage,-149.41,61.58,40.710,11.895,-4.535,123,24251,Double Quarter Pounder with Cheese
+72773-82040,Fred Meyer - Wasilla #653,Licensed,1501 East Parks Highway,Wasilla,AK,US,996548283,907-352-5000,GMT-09:00 America/Anchorage,-149.41,61.58,43.056,2.872,16.564,130,2603,Hamburger
+70086-134936,Universiy of Central Oklahoma,Licensed,100 N University Dr,Edmond,OK,US,730345207,405-974-3008,GMT-06:00 America/Chicago,-97.47,35.65,31.773,1.631,13.296,98,1129,Cheeseburger
+72664-64982,Super Target Edmond ST-1398,Licensed,1200 E 2nd St,Edmond,OK,US,730345317,405-844-5072,GMT-06:00 America/Chicago,-97.46,35.65,15.377,1.891,4.011,51,8008,Double Cheeseburger
+10612-101375,Cleveland & Owen K. Garriott,Company Owned,2326 W Owen K. Garriott,Enid,OK,US,737035535,580-234-3726,GMT-06:00 America/Chicago,-97.91,36.39,36.725,3.893,10.951,112,6378,Bacon Clubhouse Burger
+27316-246764,Fort Sill BX,Licensed,1718 Macomb Rd,Fort Sill,OK,US,73503,5802501759,GMT-06:00 America/Chicago,-98.4,34.67,49.416,5.617,13.903,148,7113,McDouble
+22602-222605,Hwy 75 & 121st,Company Owned,12111 South Vancouver Ave,Glenpool,OK,US,74033,9188910629,GMT-06:00 America/Chicago,-96.01,35.99,29.000,5.613,3.062,90,14782,Bacon McDouble
+17056-178330,Target Lawton T-2739,Licensed,2030 NW 82nd St,Lawton,OK,US,73505,580-354-7274,GMT-06:00 America/Chicago,-98.49,34.63,46.219,4.679,14.268,139,5919,Daily Double
+10168-99962,Cache & NW 40th,Company Owned,3908 Cache Road,Lawton,OK,US,735053734,580-351-9719,GMT-06:00 America/Chicago,-98.44,34.62,47.327,9.155,5.010,142,14771,Jalapeño Double
+10754-101629,29th & Air Depot,Company Owned,7203 SE 29th Street,Midwest City,OK,US,731106092,(405) 736-6500,GMT-06:00 America/Chicago,-97.4,35.44,36.161,2.693,13.292,110,3350,McRib
+76482-98011,Target Midwest City T-2061,Licensed,7305 SE 29th St,Midwest City,OK,US,731106122,405-455-4000,GMT-06:00 America/Chicago,-97.4,35.44,44.352,12.119,-3.092,134,22431,Premium Crispy Chicken Classic Sandwich
+10753-102015,19th & Telephone,Company Owned,620 SW 19th Street,Moore,OK,US,731605439,(405)793-7460,GMT-06:00 America/Chicago,-97.5,35.32,49.681,4.066,17.457,149,4056,Premium Grilled Chicken Classic Sandwich
+458-1344,Timberhill,Company Owned,2305 NW Kings Blvd,Corvallis,OR,US,973303924,(541) 758-4069,GMT-08:00 America/Los_Angeles,-123.28,44.59,29.562,8.125,-2.164,92,22584,Premium Crispy Chicken Club Sandwich
+3415-86784,9th & Garfield - Corvallis,Company Owned,"1705 NW 9th Street, Suite B",Corvallis,OR,US,973302100,541/738-1172,GMT-08:00 America/Los_Angeles,-123.26,44.58,38.106,8.172,2.273,116,16786,Premium Grilled Chicken Club Sandwich
+79547-104100,Safeway - Cottage Grove #1458,Licensed,1500 E Main Street,Cottage Grove,OR,US,974242208,541-642-3413,GMT-08:00 America/Los_Angeles,-123.05,43.8,28.026,2.529,9.330,87,4863,Premium Crispy Chicken Ranch BLT Sandwich
+10170-96331,"244 Ellendale Ave- Dallas, OR",Company Owned,"244 E Ellendale Ave, 1",Dallas,OR,US,973381523,503-623-5231,GMT-08:00 America/Los_Angeles,-123.31,44.93,28.751,7.268,-0.710,89,20468,Premium Grilled Chicken Ranch BLT Sandwich
+74778-98723,Safeway - Dallas -#4404,Licensed,138 W Ellendale Ave,Dallas,OR,US,973381408,503-831-6000,GMT-08:00 America/Los_Angeles,-123.31,44.93,46.193,6.864,9.447,139,10465,Bacon Clubhouse Crispy Chicken Sandwich
+79622-104108,Safeway - Boring #521,Licensed,20151 SE 212th,Damascus,OR,US,970899220,503-658-7000,GMT-08:00 America/Los_Angeles,-122.46,45.42,19.283,3.393,2.783,62,13091,Bacon Clubhouse Grilled Chicken Sandwich
+70366-136369,Safeway-Eugene #4513,Licensed,350 E 40th Ave,Eugene,OR,US,974053404,541-342-4067,GMT-08:00 America/Los_Angeles,-123.09,44.01,33.455,7.667,0.913,103,18199,Southern Style Crispy Chicken Sandwich
+422-157,Eugene,Company Owned,205 E. 18th Street,Eugene,OR,US,974014108,541-465-9813,GMT-08:00 America/Los_Angeles,-123.09,44.04,35.228,5.789,5.985,108,11976,Bacon Cheddar McChicken
+17920-172645,W. 11th & Acorn Park - Eugene,Company Owned,3110 W. 11th Avenue,Eugene,OR,US,97402,5413431041,GMT-08:00 America/Los_Angeles,-123.14,44.05,43.736,9.430,2.496,132,16899,Bacon Buffalo Ranch McChicken
+756-2040,One Oliver Plaza,Company Owned,210 Sixth Avenue,Pittsburgh,PA,US,152222601,412-642-9066,GMT-05:00 America/New_York,-80,40.44,41.830,5.410,10.328,127,8616,Buffalo Ranch McChicken
+7887-72865,Sixth Street,Company Owned,"202 Sixth Street, Lafayette Plaza",Pittsburgh,PA,US,152223102,412-281-2380,GMT-05:00 America/New_York,-80,40.44,19.539,2.000,5.983,63,6028,Premium McWrap Chicken & Bacon (Crispy Chicken)
+10052-99312,"Robinson, Lafayette Plaza",Company Owned,227 Summit Park Drive,Pittsburgh,PA,US,152751203,412-809-3045,GMT-05:00 America/New_York,-80.18,40.45,24.401,4.027,4.108,77,12043,Premium McWrap Chicken & Bacon (Grilled Chicken)
+17198-172190,Cumberland Valley Travel Plaza,Licensed,Pennsylvania Turnpike MP 219.12,Plainfield,PA,US,17081,717-218-5949,GMT-05:00 America/New_York,-77.28,40.21,21.436,6.078,-1.981,68,23422,Premium McWrap Chicken & Ranch (Crispy Chicken)
+24889-237527,Target Plymouth Meeting T-1269,Licensed,2250 Chemical Rd,Plymouth Meeting,PA,US,19462,610-276-0042,GMT-05:00 America/New_York,-75.29,40.1,46.177,5.910,11.539,139,8486,Premium McWrap Chicken & Ranch (Grilled Chicken)
+24455-93327,Giant-Plymouth Meeting #11,Licensed,2450 Chemical Rd,Plymouth Meeting,PA,US,19462,610-941-0830,GMT-05:00 America/New_York,-75.29,40.1,34.809,9.092,-1.505,107,21276,Premium McWrap Southwest Chicken (Crispy Chicken)
+764-603,Plymouth Meeting,Company Owned,"413 West Germantown Pike, Philadelphia Premium Outlets",Plymouth Meeting,PA,US,194621301,610-941-4263,GMT-05:00 America/New_York,-75.29,40.11,21.704,4.074,2.572,69,14219,Premium McWrap Southwest Chicken (Grilled Chicken)
+14221-107001,Philadelphia Premium Outlets,Company Owned,"18 Lightcap Road, 1039, Trainers Corner Shopping Center",Pottstown,PA,US,194647806,610-970-6430,GMT-05:00 America/New_York,-75.57,40.24,41.092,3.204,14.789,125,3684,Premium McWrap Chicken Sweet Chili (Crispy Chicken)
+7940-95325,Quakertown,Company Owned,262 North Westend Boulevard,Quakertown,PA,US,189512324,215-804-1171,GMT-05:00 America/New_York,-75.36,40.45,19.859,1.548,7.148,64,3684,Premium McWrap Chicken Sweet Chili (Grilled Chicken)
+76745-106439,Target Richlandtown (Quakertown) T-,Licensed,610 N West End Blvd,Quakertown,PA,US,189514100,215-529-2720,GMT-05:00 America/New_York,-75.37,40.46,23.810,3.581,4.775,75,10638,Chicken McNuggets (4 piece)
+10211-99817,Keith & 1st,Company Owned,653 West Inman St,Cleveland,TN,US,373111786,423-472-1351,GMT-05:00 America/New_York,-84.88,35.16,20.543,1.773,7.016,66,4486,Chicken McNuggets (6 piece)
+76881-121299,Target Cleveland T-2367,Licensed,4570 Frontage Rd NW,Cleveland,TN,US,373122905,423-790-3000,GMT-05:00 America/New_York,-84.84,35.26,44.015,3.627,15.412,133,4111,Chicken McNuggets (10 piece)
+17746-178124,Paul Huff & I-75,Company Owned,615 Paul Huff Parkway NW,Cleveland,TN,US,37312,423.339.8145,GMT-05:00 America/New_York,-84.86,35.21,41.815,11.164,-2.338,127,21830,Chicken McNuggets (20 piece)
+10084-99523,Houston Levee & Winchester,Company Owned,3603 S Houston Levee Rd,Collierville,TN,US,380179014,901-850-1604,GMT-06:00 America/Chicago,-89.73,35.05,23.606,1.575,9.080,75,2606,Chicken McNuggets (40 piece)
+8362-16534,Collierville,Company Owned,897 Poplar,Collierville,TN,US,380175145,901-861-2762,GMT-06:00 America/Chicago,-89.69,35.05,15.645,1.818,4.314,52,7358,Filet-O-Fish
+76241-91588,Target Collierville T-1907,Licensed,325 New Byhalia Rd,Collierville,TN,US,380173705,901-860-0000,GMT-06:00 America/Chicago,-89.69,35.05,25.813,5.652,1.283,81,17221,Premium Bacon Ranch Salad (without Chicken)
+25983-237524,Kroger Columbia #507,Licensed,1202 S James Campbell Blvd,Columbia,TN,US,38401,,GMT-06:00 America/Chicago,-87.06,35.6,28.379,6.794,0.134,88,19184,Premium Bacon Ranch Salad with Crispy Chicken
+10616-101627,Jefferson & Interstate,Company Owned,1105 Interstate Drive,Cookeville,TN,US,385014133,931-525-6503,GMT-06:00 America/Chicago,-85.51,36.14,33.230,2.326,12.542,102,2920,Premium Bacon Ranch Salad with Grilled Chicken
+70334-135770,Tennessee Tech University,Licensed,1000 North Dixie,Cookeville,TN,US,38505,931-372-3276,GMT-06:00 America/Chicago,-85.5,36.17,48.278,6.953,10.361,145,10025,Premium Southwest Salad (without Chicken)
+10791-102282,Houston Levee & Macon,Company Owned,1181 North Houston Levee,Cordova,TN,US,380186616,901-624-9022,GMT-06:00 America/Chicago,-89.73,35.16,45.083,5.631,11.571,136,8190,Premium Southwest Salad with Crispy Chicken
+6386-13970,William Cannon & Westgate,Company Owned,6816  Westgate Blvd.,Austin,TX,US,787492226,512-444-7494,GMT-06:00 America/Chicago,-97.82,30.21,44.057,10.912,-0.594,133,19978,Premium Southwest Salad with Grilled Chicken
+76383-96938,Target Austin T-1061,Licensed,5300 S Mo Pac Expy,Austin,TX,US,787491112,512-892-5535,GMT-06:00 America/Chicago,-97.83,30.23,30.763,8.779,-2.966,95,23597,Chipotle BBQ Snack Wrap (Crispy Chicken)
+79603-102559,Randalls - Austin #2483,Licensed,715 Exposition,Austin,TX,US,787033615,5124775713,GMT-06:00 America/Chicago,-97.78,30.28,36.893,10.029,-2.459,113,22298,Chipotle BBQ Snack Wrap (Grilled Chicken)
+6341-13118,Northland & Balcones,Company Owned,"3317 Northland Dr, Ste A",Austin,TX,US,787314974,512-458-5574,GMT-06:00 America/Chicago,-97.76,30.34,35.860,6.656,4.415,110,14018,Honey Mustard Snack Wrap (Crispy Chicken)
+76104-78194,Super Target Balcones Hts ST-1523,Licensed,4522 Fredricksburg Rd,Balcones Heights,TX,US,782016521,210-280-0000,GMT-06:00 America/Chicago,-98.55,29.49,46.067,8.503,5.775,139,13920,Honey Mustard Snack Wrap (Grilled Chicken)
+29132-252020,407 & McMakin,Company Owned,"3012 FM 407, 200",Bartonville,TX,US,76226,2144708156,GMT-06:00 America/Chicago,-97.13,33.08,44.079,11.582,-2.055,133,21423,Ranch Snack Wrap (Crispy Chicken)
+25202-201748,Kroger Southwest Store #572,Licensed,3400 FM 407 E,Bartonville,TX,US,76226,940-294-8251,GMT-06:00 America/Chicago,-97.13,33.08,41.786,12.145,-4.512,127,24101,Ranch Snack Wrap (Grilled Chicken)
+11698-103876,71 & Hasler,Company Owned,501 B Hwy 71 West,Bastrop,TX,US,786023737,512-321-8051,GMT-06:00 America/Chicago,-97.33,30.11,33.019,2.700,11.607,101,4050,Small French Fries
+29831-247784,Kroger Baytown #150,Licensed,6231 Garth Rd,Baytown,TX,US,77251,346-216-4154,GMT-06:00 America/Chicago,-94.98,29.79,35.010,7.805,1.434,107,17602,Medium French Fries
+76418-96282,Target Baytown T-887,Licensed,4510 Garth Rd,Baytown,TX,US,775212124,281-427-0265,GMT-06:00 America/Chicago,-94.98,29.77,18.209,3.889,1.121,59,16703,Large French Fries
+24500-237076,American Fork - 500 E and State,Company Owned,496 E State Street,American Fork,UT,US,84003,8013807114,GMT-07:00 America/Denver,-111.79,40.37,19.859,4.977,-0.397,64,20261,Kids French Fries
+22873-222264,Smith's - Bountiful #444,Licensed,555 S 200 W,Bountiful,UT,US,84010,801-397-7800,GMT-07:00 America/Denver,-111.89,40.88,37.351,8.723,0.659,114,18620,Side Salad
+20321-204364,Bountiful 500S,Company Owned,422 West 500 South,Bountiful,UT,US,84010,8012983155,GMT-07:00 America/Denver,-111.89,40.88,26.504,7.015,-1.347,83,21608,Apple Slices
+47968-250765,Smiths Brigham City #178,Licensed,156 S. Main,Brigham City,UT,US,84302,4357342500,GMT-07:00 America/Denver,-112.02,41.51,44.817,3.161,16.864,135,2970,Fruit 'n Yogurt Parfait
+10334-99941,Providence Crossing- Cedar City,Company Owned,1233 S Sage Dr,Cedar City,UT,US,847201998,435-586-2531,GMT-07:00 America/Denver,-113.08,37.66,33.089,2.116,12.929,102,2339,Baked Apple Pie
+10703-101354,Centerville Starbucks,Company Owned,"356 N. Marketplace Drive, #A100",Centerville,UT,US,840141736,801-298-0256,GMT-07:00 America/Denver,-111.89,40.92,24.545,3.665,4.981,77,10535,Chocolate Chip Cookie
+24530-235844,Clearfield - Falcon Hill,Company Owned,"306 East 650 North, 106, Clinton Pines",Clearfield,UT,US,84015,3852450630,GMT-07:00 America/Denver,-112.02,41.12,46.128,8.080,6.738,139,13016,Oatmeal Raisin Cookie
+10760-101874,"1800 North & 2000 West-Clinton, UT",Company Owned,1819 West 1800 North,Clinton,UT,US,840158580,801-773-3260,GMT-07:00 America/Denver,-112.06,41.14,31.729,6.033,3.590,98,14452,Kids Ice Cream Cone
+6924-87506,12300 South & 1300 East-Draper,Company Owned,1283 E. Draper Pkwy.,Draper,UT,US,840209098,801-501-9177,GMT-07:00 America/Denver,-111.86,40.53,36.789,6.540,5.163,112,13266,Hot Fudge Sundae
+22132-206304,Ridley's Family Markets - Eagle Mou,Licensed,"4045 E Pony Express Prkwy, Station Park",Eagle Mountain,UT,US,84005,801-789-4991,GMT-07:00 America/Denver,-111.97,40.36,24.776,1.547,9.764,78,2192,Hot Caramel Sundae
+75786-96371,MIA - Main E Food Ct,Licensed,4200 NW 21st Street,Miami,FL,US,331281984,,GMT-05:00 America/New_York,-80.26,25.77,17.524,2.718,3.332,57,11092,Strawberry Sundae
+29828-247324,The Bond At Brickell,Licensed,1080 Brickell  Ave.,Miami,FL,US,33130,,GMT-05:00 America/New_York,-80.19,25.76,43.015,6.184,9.254,130,10002,Coca-Cola Classic (Small)
+8499-61300,47 W. Flagler St,Company Owned,"47 West Flagler Street, The Falls",Miami,FL,US,331301702,305-372-2550,GMT-05:00 America/New_York,-80.19,25.77,36.256,8.428,0.725,111,18517,Coca-Cola Classic (Medium)
+28579-249825,Teavana - The Falls,Company Owned,"8888 SW 136th ST., #370A",MIAMI,FL,US,33176,786-242-2652,GMT-05:00 America/New_York,-80.34,25.65,42.132,4.755,11.930,128,7034,Coca-Cola Classic (Large)
+13736-107277,2645 SW 22nd St,Company Owned,2645 SW 22nd St.,Miami,FL,US,33145,305-856-4304,GMT-05:00 America/New_York,-80.24,25.75,25.997,5.875,0.890,81,17895,Coca-Cola Classic (Child)
+21216-183784,827 Arthur Godfrey Road,Company Owned,"827 West 41st Street, Unit #2",Miami Beach,FL,US,33140,7865660341,GMT-05:00 America/New_York,-80.13,25.81,37.570,6.293,6.120,114,12281,Diet Coke (Small)
+8543-54279,10th St. & West Ave.,Company Owned,959 West Avenue,Miami Beach,FL,US,331395201,305-532-3367,GMT-05:00 America/New_York,-80.14,25.78,17.901,4.362,-0.083,58,19591,Diet Coke (Medium)
+75553-64359,Marriott South Beach-Miami,Licensed,161 Ocean Dr,Miami Beach,FL,US,331397212,305-536-7700,GMT-05:00 America/New_York,-80.13,25.77,20.591,4.273,1.542,66,16122,Diet Coke (Large)
+8557-72544,416 Lincoln Rd.,Company Owned,416 Lincoln Rd.,Miami Beach,FL,US,331393003,305-673-9684,GMT-05:00 America/New_York,-80.13,25.79,22.448,4.060,2.999,71,13561,Diet Coke (Child)
+8242-629,16th & Alton,Company Owned,"1570 Alton Road, Suite A",Miami Beach,FL,US,331393344,305-538-0958,GMT-05:00 America/New_York,-80.14,25.79,26.664,5.754,1.512,83,16915,Dr Pepper (Small)
+25599-241155,Delaware House Travel Plaza Cafe,Licensed,"530 JFK Memorial Highway, 302",Newark,DE,US,19702,302-731-8599,GMT-05:00 America/New_York,-75.69,39.66,23.467,5.214,1.000,74,17531,Dr Pepper (Medium)
+74731-97006,Safeway-Rehoboth Beach #2706,Licensed,"4396 SR-1, 301 Rehoboth Ave",Rehoboth Beach,DE,US,19971,302-226-3073,GMT-05:00 America/New_York,-75.13,38.72,45.773,3.039,17.639,138,2574,Dr Pepper (Large)
+14253-117484,301 Rehoboth Ave.,Company Owned,301 Rehoboth Ave,Rehoboth Beach,DE,US,199713114,302 227-3682,GMT-05:00 America/New_York,-75.09,38.72,45.009,10.220,1.434,136,17999,Dr Pepper (Child)
+73836-100578,Harris Teeter-Selbyville #327,Licensed,31221 Americana Parkway,Selbyville,DE,US,199753785,302-436-2827,GMT-05:00 America/New_York,-75.11,38.47,43.447,8.231,4.981,131,14387,Diet Dr Pepper (Small)
+76335-95673,Target Brandywine T-1146,Licensed,1050 Brandywine Pkwy,Wilmington,DE,US,198031492,302-478-2500,GMT-05:00 America/New_York,-75.54,39.83,18.395,4.990,-1.203,60,22243,Diet Dr Pepper (Medium)
+20585-202066,Cobbs Ford Road,Company Owned,2588 Cobbs Ford Road,Prattville,AL,US,36066,334-285-9413,GMT-06:00 America/Chicago,-86.39,32.46,44.179,3.867,14.970,133,4604,Diet Dr Pepper (Large)
+76796-108570,Target Prattville T-2274,Licensed,2754 Legends Pkwy,Prattville,AL,US,36066,334-290-6000,GMT-06:00 America/Chicago,-86.43,32.47,23.186,4.002,3.517,73,12771,Diet Dr Pepper (Child)
+10249-96359,I-10 & Hwy 181,Company Owned,"30350 State Hwy 181, Suite A",Spanish Fort,AL,US,365275694,251-626-3180,GMT-06:00 America/Chicago,-87.85,30.67,34.855,9.881,-3.215,107,23415,Sprite (Small)
+3453-93234,US Hwy 11 & I-459,Company Owned,"1420 Gadsden Hwy, BAMA Dining Services/Starbucks Coffee",Trussville,AL,US,352353126,205-661-3201,GMT-06:00 America/Chicago,-86.65,33.6,27.974,2.088,10.273,87,3365,Sprite (Medium)
+72121-3608,U of AL - Ferguson Cntr,Licensed,"1000 McCorvey Dr., UoA-Ferguson Center",Tuscaloosa,AL,US,35487,205-348-9143,GMT-06:00 America/Chicago,-87.55,33.21,44.138,12.745,-4.582,133,23920,Sprite (Large)
+13482-94577,McFarland Blvd & 15th St,Company Owned,"1800 McFarland Blvd, Suite 600",Tuscaloosa,AL,US,354045875,205-343-2468,GMT-06:00 America/Chicago,-87.53,33.2,31.900,4.215,7.680,98,8884,Sprite (Child)
+72668-65003,Super Target Tuscaloosa ST-1787,Licensed,1901 13th Ave E,Tuscaloosa,AL,US,354044785,205-462-1064,GMT-06:00 America/Chicago,-87.51,33.2,48.907,13.431,-3.559,147,22565,1% Low Fat Milk Jug
+48066-207044,Aramark @ U of Alabama Paul W Bryan,Licensed,838 Paul W Bryant Drive,Tuscaloosa,AL,US,35401,2053489842,GMT-06:00 America/Chicago,-87.55,33.21,17.337,1.125,6.739,57,2428,Fat Free Chocolate Milk Jug
+9587-97243,Cahaba Heights & Dolly Ridge Rd,Company Owned,3130 Cahaba Heights Rd,Vestavia Hills,AL,US,352435243,205-298-7946,GMT-06:00 America/Chicago,-86.74,33.46,15.188,3.170,1.097,51,16239,Minute Maid 100% Apple Juice Box
+8560-79440,Montgomery Hwy & Canyon Dr,Company Owned,"700 Montgomery Hwy, Suite 100",Vestavia Hills,AL,US,352161867,205-978-2892,GMT-06:00 America/Chicago,-86.79,33.45,25.220,2.643,7.588,79,6261,Minute Maid Orange Juice (Small)
+9392-95294,"6th & C Street, SW",Company Owned,"550 C Street, SW, Suite 100",Washington,DC,US,200242572,202-484-8059,GMT-05:00 America/New_York,-77.02,38.89,22.842,4.437,2.377,72,14848,Minute Maid Orange Juice (Medium)
+49899-271484,Renaissance Hotel,Company Owned,999 9th Street NW,Washington,DC,US,20001,202 868-7726,GMT-05:00 America/New_York,-77.02,38.9,23.915,4.450,2.918,75,14065,Minute Maid Orange Juice (Large)
+72453-5260,DCA - Wash Nat'l-Reagan-Level 1,Licensed,"1 Aviation Circle, Washington Square",Washington,DC,US,200016000,7034178452,GMT-05:00 America/New_York,-77.04,38.86,35.098,9.673,-2.629,107,22658,Dasani Water Bottle
+7281-766,1734 L Street,Company Owned,1734 'L' Street NW,Washington,DC,US,200365406,(202) 293-9180,GMT-05:00 America/New_York,-77.04,38.9,22.174,3.332,4.453,70,10627,Iced Tea (Small)
+725-2024,DuPont South,Company Owned,"1301 Connecticut Avenue NW, The Portals",Washington,DC,US,200361815,202-785-4728,GMT-05:00 America/New_York,-77.04,38.91,35.082,7.255,2.682,107,16054,Iced Tea (Medium)
+11869-105617,The Portals,Company Owned,1201 Maryland Avenue SW,Washington,DC,US,200246129,(202) 488-6366,GMT-05:00 America/New_York,-77.03,38.88,18.428,5.340,-1.955,60,24019,Iced Tea (Large)
+21772-214865,2001 L St,Company Owned,2001 L St NW,Washington,DC,US,20036,2023314260,GMT-05:00 America/New_York,-77.05,38.9,46.254,12.734,-3.433,139,22628,Iced Tea (Child)
+728-239264,1401 New York Ave II,Company Owned,1401 New York Ave NW,Washington DC,DC,US,20005,2026379555,GMT-05:00 America/New_York,-77.03,38.9,19.457,5.143,-0.974,63,21574,Sweet Tea (Small)
+22797-220545,DCA B63,Licensed,1 Aviation Circle,Washington DC,DC,US,20001,7034171014,GMT-05:00 America/New_York,-77.05,38.85,46.476,6.468,10.470,140,9559,Sweet Tea (Medium)
+22473-220544,DCA B35,Licensed,1 Aviation Circle,Washington DC,DC,US,20001,7034171012,GMT-05:00 America/New_York,-77.05,38.85,38.022,2.970,13.672,116,3698,Sweet Tea (Large)
+74386-92938,Safeway-Colorado Springs #1286,Licensed,3275 W Colorado Ave,Colorado Springs,CO,US,809041905,,GMT-07:00 America/Denver,-104.88,38.86,20.633,3.675,2.880,66,13299,Sweet Tea (Child)
+17364-173406,King Soopers-Commerce City #114,Licensed,15051 E 104th Ave,Commerce City,CO,US,80222,303-286-5464,GMT-07:00 America/Denver,-104.81,39.89,43.390,7.838,5.814,131,13542,Coffee (Small)
+13604-108690,"104th & Tower, Commerce City",Company Owned,"10339 Tower Road, Conifer Town Center",Commerce City,CO,US,800229720,303-853-4400,GMT-07:00 America/Denver,-104.77,39.88,28.804,6.656,0.663,89,18385,Coffee (Medium)
+13938-104015,Conifer Town Center - Conifer,Company Owned,26724 Conifer Town Center Dr,Conifer,CO,US,804338558,303-838-4924,GMT-07:00 America/Denver,-105.31,39.53,32.633,4.359,7.751,100,9025,Coffee (Large)
+79529-101065,Safeway - Conifer #2792,Licensed,Hwy 285 & Light Ln,Conifer,CO,US,80433,303-838-4375,GMT-07:00 America/Denver,-105.3,39.53,40.082,8.252,3.146,122,15965,Latte (Small)
+79264-93868,King Soopers-Aspen Park #87,Licensed,25637 Conifer Road,Conifer,CO,US,804339078,3038164960,GMT-07:00 America/Denver,-105.29,39.54,35.965,7.221,3.227,110,15475,Latte (Medium)
+27300-241524,Copper Mtn Village Mountain Plaza,Licensed,209 Ten Mile Cr Suite 4,Copper Mountain,CO,US,80443,,GMT-07:00 America/Denver,-106.15,39.5,31.007,1.623,12.909,96,1223,Latte (Large)
+20181-203487,City Market - Cortez #408,Licensed,508 East Main Street,Cortez,CO,US,81321,970-565-6504,GMT-07:00 America/Denver,-108.58,37.35,38.186,7.610,3.552,116,15331,Caramel Latte (Small)
+22471-220904,King Soopers - Craig #415,Licensed,505 W. Victory Way,Craig,CO,US,81625,,GMT-07:00 America/Denver,-107.55,40.51,26.107,3.853,5.397,82,10369,Caramel Latte (Medium)
+27708-240564,Auraria Tivoli - Student Union,Licensed,900 Auraria Parkway,Denver,CO,US,80204,3035563700,GMT-07:00 America/Denver,-105.01,39.75,22.333,6.211,-1.796,71,22898,Caramel Latte (Large)
+14637-113173,Hwy 381 & Hwy 92,Company Owned,8655 Hiram Acworth Hwy,Dallas,GA,US,301576599,678-574-0556,GMT-05:00 America/New_York,-84.75,34.01,31.104,4.865,5.826,96,11216,Hazelnut Latte (Small)
+47957-259865,Kroger Dallas #673,Licensed,455 Nathan Dean Blvd,Dallas,GA,US,30132,770-443-0811,GMT-05:00 America/New_York,-84.82,33.91,47.699,11.854,-0.730,143,20057,Hazelnut Latte (Medium)
+13407-106853,Cleveland Hwy & North By-Pass,Company Owned,1305 N Glenwood Ave,Dalton,GA,US,307212605,706-428-0380,GMT-05:00 America/New_York,-84.96,34.8,25.916,1.465,10.549,81,1628,Hazelnut Latte (Large)
+79479-99189,Kroger - Dalton #458,Licensed,1365 W Walnut Ave,Dalton,GA,US,307203857,706-270-0843,GMT-05:00 America/New_York,-84.99,34.76,44.570,9.270,3.293,134,16166,French Vanilla Latte (Small)
+49732-251700,Kroger Dawsonville #670,Licensed,378 Marketplace Parkway,Dawsonville,GA,US,30534,4703751989,GMT-05:00 America/New_York,-84.05,34.35,34.278,5.712,5.651,105,12196,French Vanilla Latte (Medium)
+79316-100124,Kroger - Decatur #459,Licensed,2875 North Decatur Blvd,Decatur,GA,US,300335911,404-294-5311,GMT-05:00 America/New_York,-84.27,33.79,18.915,4.885,-0.694,61,20991,French Vanilla Latte (Large)
+27607-218265,N Decatur & Church,Company Owned,2601 N Decatur Rd,Decatur,GA,US,30030,4048589955,GMT-05:00 America/New_York,-84.29,33.79,18.914,1.635,6.453,61,4501,Latte with Sugar Free French Vanilla Syrup (Small)
+8206-816,Decatur Square,Company Owned,133 East Court Square,Decatur,GA,US,300302561,4043711104,GMT-05:00 America/New_York,-84.3,33.78,29.056,4.370,5.828,90,10638,Latte with Sugar Free French Vanilla Syrup (Medium)
+47267-251698,Kroger - Decatur #475,Licensed,"4919 Flat Shoals Parkway, ste 100",Decatur,GA,US,30034,7703228984,GMT-05:00 America/New_York,-84.23,33.68,20.084,2.298,5.618,65,7184,Latte with Sugar Free French Vanilla Syrup (Large)
+9703-97484,Chapel Hill Rd @ I-20,Company Owned,"2736 Chapel Hill Rd, Bldg C",Douglasville,GA,US,301351704,678-838-7725,GMT-05:00 America/New_York,-84.74,33.73,19.536,4.396,0.710,63,17804,Nonfat Latte (Small)
+21063-101700,Waimalu Shopping Center,Company Owned,"98-1277 Kaahumanu Street, Building E, Unit 7, Laulani Village",Aiea,HI,US,967015314,808-484-5802,GMT-10:00 Pacific/Honolulu,-157.95,21.39,45.377,4.528,14.154,137,5778,Nonfat Latte (Medium)
+18818-161204,Keaunui & Ft Weaver,Company Owned,"91-1105 Keaunui Drive, #500",Ewa Beach,HI,US,967066363,808-685-6922,GMT-10:00 Pacific/Honolulu,-158.02,21.33,17.341,1.502,5.912,57,4513,Nonfat Latte (Large)
+18395-173858,Safeway-Ewa #2897,Licensed,91-1119 Keaunui St,Ewa Beach,HI,US,96706,808-683-3200,GMT-10:00 Pacific/Honolulu,-158.02,21.33,24.273,5.475,0.854,76,17855,Nonfat Caramel Latte (Small)
+1563-152524,Safeway-Hilo #2893,Licensed,381 E  Makaala St,Hilo,HI,US,967205146,808-920-8870,GMT-10:00 Pacific/Honolulu,-155.07,19.7,38.655,3.398,13.067,118,4639,Nonfat Caramel Latte (Medium)
+21039-85523,Prince Kuhio Plaza Mall,Company Owned,111 East Puainako Street,Hilo,HI,US,967205288,808-959-2492,GMT-10:00 Pacific/Honolulu,-155.06,19.7,41.518,2.305,16.994,126,1529,Nonfat Caramel Latte (Large)
+21035-83560,Downtown Hilo on Kilauea Ave,Company Owned,438 Kilauea Ave,Hilo,HI,US,967203010,808-933-3094,GMT-10:00 Pacific/Honolulu,-155.08,19.72,17.800,3.319,2.157,58,14100,Nonfat Hazelnut Latte (Small)
+15774-152526,Target Hilo T-2682,Licensed,391 Makaala St,Hilo,HI,US,96720,,GMT-10:00 Pacific/Honolulu,-155.07,19.7,28.162,6.320,1.062,88,17744,Nonfat Hazelnut Latte (Medium)
+21274-210427,Waikiki Shopping Plaza,Company Owned,"2250 Kalakaua Avenue, 680 Ala Moana",Honolulu,HI,US,96815,8089220703,GMT-10:00 Pacific/Honolulu,-157.83,21.28,25.485,2.467,8.117,80,5492,Nonfat Hazelnut Latte (Large)
+17849-167687,Ala Moana & Coral,Company Owned,"680 Ala Moana Blvd., A101",Honolulu,HI,US,968135406,808-521-2112,GMT-10:00 Pacific/Honolulu,-157.86,21.3,42.677,2.556,17.056,129,1950,Nonfat French Vanilla Latte (Small)
+21032-65366,Macy's Ala Moana Center - L2,Company Owned,"1450 Ala Moana Boulevard, 1000, Honolulu International Airport",Honolulu,HI,US,968144604,808-943-2437,GMT-10:00 Pacific/Honolulu,-157.84,21.29,47.953,9.019,5.641,144,14257,Nonfat French Vanilla Latte (Medium)
+3883-108573,Little Rock AFB - Troop Store,Licensed,787 6th St.,"Little Rock,",AR,US,720994947,5013495556,GMT-06:00 America/Chicago,-92.15,34.9,46.060,4.674,14.194,139,5943,Nonfat French Vanilla Latte (Large)
+11709-104595,Maumelle & Audubon,Company Owned,105 Commons Drive,Maumelle,AR,US,721137266,501-803-3576,GMT-06:00 America/Chicago,-92.4,34.85,33.984,9.891,-3.699,104,24139,Nonfat Latte with Sugar Free French Vanilla Syrup (Small)
+28934-248986,Harp's Marketplace #91,Licensed,924 Highway 62 East,Mountain Home,AR,US,72653,870-425-0117,GMT-06:00 America/Chicago,-92.37,36.35,33.841,2.956,11.481,104,4585,Nonfat Latte with Sugar Free French Vanilla Syrup (Medium)
+25530-239094,JFK and North Hills,Company Owned,7129 JFK Blvd,North Little Rock,AR,US,72116,15016906059,GMT-06:00 America/Chicago,-92.23,34.82,44.784,11.913,-2.410,135,21738,Nonfat Latte with Sugar Free French Vanilla Syrup (Large)
+9813-97844,JFK & McCain,Company Owned,4824 JFK,North LIttle Rock,AR,US,72116,501-812-0913,GMT-06:00 America/Chicago,-92.25,34.8,48.689,8.021,8.228,146,12015,Mocha (Small)
+10422-100877,Walnut & 46th,Company Owned,4520 W Walnut,Rogers,AR,US,72756,479-936-8250,GMT-06:00 America/Chicago,-94.18,36.33,19.448,2.464,4.915,63,8362,Mocha (Medium)
+70343-138924,Target Rogers T-2498,Licensed,"2404 Promenade Blvd, Tuscany Square",Rogers,AR,US,727589080,(479) 986-1100,GMT-06:00 America/Chicago,-94.17,36.3,39.212,9.985,-1.128,119,20645,Mocha (Large)
+10485-100878,I-540 & Pleasant Grove,Company Owned,2605 W Pleasant Grove Road,Rogers,AR,US,727585802,479-986-8875,GMT-06:00 America/Chicago,-94.15,36.28,37.900,9.094,0.134,115,19235,Mocha with Nonfat Milk (Small)
+18208-176368,Promenade & New Hope,Company Owned,"2003 Promenade Blvd, Suite 101",Rogers,AR,US,72758,4796360386,GMT-06:00 America/Chicago,-94.18,36.31,43.089,3.013,16.270,130,2913,Mocha with Nonfat Milk (Medium)
+11743-104981,Weir & Parkway,Company Owned,2220 East Parkway,Russellville,AR,US,72802,(479) 967-2488,GMT-06:00 America/Chicago,-93.11,35.28,40.695,6.792,6.685,123,12222,Mocha with Nonfat Milk (Large)
+17694-116730,Harding University,Licensed,"211 Dr Jimmy Carr Drive, E Race and Rand",Searcy,AR,US,72149,501-279-5757,GMT-06:00 America/Chicago,-91.73,35.25,45.053,7.035,8.465,136,11190,Caramel Mocha (Small)
+25831-241311,E Race and Rand,Company Owned,3243 E Race Ave,Searcy,AR,US,72143,5013220591,GMT-06:00 America/Chicago,-91.69,35.25,17.873,1.792,5.555,58,5828,Caramel Mocha (Medium)
+29087-251505,Sunset & Reiff,Company Owned,4224 W Sunset,Springdale,AR,US,72762,4796444768,GMT-06:00 America/Chicago,-94.18,36.18,16.953,2.547,3.407,56,10621,Caramel Mocha (Large)
+20391-179504,N. State Line Ave & Arkansas Blvd.,Company Owned,3912 N State Line Ave,Texarkana,AR,US,71854,8707799722,GMT-06:00 America/Chicago,-94.04,33.46,28.905,3.592,7.458,90,8130,Nonfat Caramel Mocha (Small)
+26672-244125,Fayetteville and Rena Rd,Company Owned,2034 Fayetteville Rd,Van Buren,AR,US,72956,4797555650,GMT-06:00 America/Chicago,-94.36,35.47,32.523,4.650,7.054,100,9926,Nonfat Caramel Mocha (Medium)
+72898-74393,Hy Vee Foods-Ames #2,Licensed,640 Lincoln Way,Ames,IA,US,500106911,515-232-1961,GMT-06:00 America/Chicago,-93.62,42.02,34.618,6.997,3.004,106,15603,Nonfat Caramel Mocha (Large)
+72997-74399,Hy-Vee - Ankeny #1,Licensed,410 N Ankeny,Ankeny,IA,US,500231753,515-964-0900,GMT-06:00 America/Chicago,-93.6,41.73,32.887,7.905,0.086,101,19276,Hot Chocolate (Small)
+21477-212024,Hy-Vee @ Ankeny #2,Licensed,2510 SW State St,Ankeny,IA,US,50023,515-963-3130,GMT-06:00 America/Chicago,-93.62,41.71,16.739,2.835,2.658,55,12461,Hot Chocolate (Medium)
+72188-20782,Super Target Ankeny ST-1767,Licensed,2135 SE Delaware Ave,Ankeny,IA,US,500214592,515-964-9000,GMT-06:00 America/Chicago,-93.58,41.71,29.717,1.594,12.287,92,1348,Hot Chocolate (Large)
+9266-96097,Delaware & Shurfine - Ankeny,Company Owned,"1745 SE Delaware Ave., 100/200",Ankeny,IA,US,500213964,515-963-9253,GMT-06:00 America/Chicago,-93.58,41.71,28.128,2.931,8.500,88,6203,Hot Chocolate with Nonfat Milk (Small)
+9353-214189,Kimberly & Middle Rd,Company Owned,931 Middle Road.,Bettendorf,IA,US,52722,5633591110,GMT-06:00 America/Chicago,-90.52,41.54,40.546,2.677,15.659,123,2537,Hot Chocolate with Nonfat Milk (Medium)
+73744-103865,Hy-Vee - Bettendorf #1,Licensed,2900 Devils Glen Rd,Bettendorf,IA,US,527223363,5633328496,GMT-06:00 America/Chicago,-90.48,41.55,23.799,7.007,-2.768,75,24465,Hot Chocolate with Nonfat Milk (Large)
+26717-245064,Agency and Roosevelt - Burlington,Company Owned,3200 Agency St,Burlington,IA,US,52601,3198506376,GMT-06:00 America/Chicago,-91.14,40.82,39.639,11.071,-3.290,120,23011,Regular Iced Coffee (Small)
+8951-95343,6421 University Ave - Cedar Falls,Company Owned,"6421 University Ave., Space C",Cedar Falls,IA,US,506135100,319-277-7140,GMT-06:00 America/Chicago,-92.44,42.51,31.452,4.864,6.013,97,11048,Regular Iced Coffee (Medium)
+3867-140227,Target Cedar Falls - T-2526,Licensed,214 Viking Plaza Drive,Cedar Falls,IA,US,506136936,(319) 553-1120,GMT-06:00 America/Chicago,-92.46,42.47,42.112,6.024,9.126,127,9933,Regular Iced Coffee (Large)
+3209-247424,210 W. Ironwood Drive,Company Owned,210 W. Ironwood Drive,Couer d'Alene,ID,US,83814,2087654684,GMT-08:00 America/Los_Angeles,-116.79,47.69,37.053,5.416,7.775,113,10233,Caramel Iced Coffee (Small)
+73690-128388,Albertsons -- Eagle #182,Licensed,250 South Eagle Rd,Eagle,ID,US,836165906,208-939-9850,GMT-07:00 America/Denver,-116.35,43.69,33.318,5.706,5.153,102,12641,Caramel Iced Coffee (Medium)
+3236-251306,Hwy 44 and Edgewood - Eagle,Company Owned,1598 E. Riverside Dr.,Eagle,ID,US,83616,2089380630,GMT-07:00 America/Denver,-116.33,43.69,38.210,11.449,-4.882,116,24965,Caramel Iced Coffee (Large)
+4130-104219,Albertsons - Emmett #126,Licensed,640 Highway 16,Emmett,ID,US,836179461,208-365-4420,GMT-07:00 America/Denver,-116.49,43.86,39.107,10.076,-1.386,119,20936,Hazelnut Iced Coffee (Small)
+10732-98969,Glenwood & Chinden- Boise,Company Owned,4971 N. Glenwood St.,Garden City,ID,US,837141325,208-375-0447,GMT-07:00 America/Denver,-116.28,43.65,17.295,2.027,4.733,57,7449,Hazelnut Iced Coffee (Medium)
+73573-77223,Albertsons-Hailey #130,Licensed,911 Main Street N,Hailey,ID,US,833338608,208-788-6709,GMT-07:00 America/Denver,-114.32,43.53,39.791,6.909,5.946,121,12869,Hazelnut Iced Coffee (Large)
+11122-102163,"Corner Stone Plaza- Hayden, ID",Company Owned,"540 W. Prairie Avenue, 100",Hayden,ID,US,838157766,208-762-7069,GMT-08:00 America/Los_Angeles,-116.79,47.74,34.523,7.484,1.882,106,17010,French Vanilla Iced Coffee (Small)
+79335-100336,Fred Meyer - Idaho Falls #156,Licensed,1555 Northgate Mile,Idaho Falls,ID,US,834012014,208-535-2520,GMT-07:00 America/Denver,-112.02,43.51,45.979,10.217,1.957,139,17532,French Vanilla Iced Coffee (Medium)
+11844-104431,I-15 & Broadway- Idaho Falls,Company Owned,157 Houston Circle,Idaho Falls,ID,US,834025089,208-522-1974,GMT-07:00 America/Denver,-112.05,43.5,20.255,2.214,5.892,65,6695,French Vanilla Iced Coffee (Large)
+49105-103574,Albertsons - Idaho Falls #138,Licensed,590 East 17th St,Idaho Falls,ID,US,83404,2085230950,GMT-07:00 America/Denver,-112.02,43.48,32.166,6.071,3.737,99,14319,Iced Coffee with Sugar Free French Vanilla Syrup (Small)
+10448-98526,Champaign - N Prospect Ave,Company Owned,2702 North Prospect,Champaign,IL,US,618221298,217-398-0821,GMT-06:00 America/Chicago,-88.26,40.15,47.689,11.921,-0.883,143,20197,Iced Coffee with Sugar Free French Vanilla Syrup (Medium)
+21677-74483,Unv of Illinois Champaign-Bookstore,Licensed,809 S Wright St,Champaign,IL,US,618206219,2172441775,GMT-06:00 America/Chicago,-88.23,40.11,18.449,4.194,0.578,60,18022,Iced Coffee with Sugar Free French Vanilla Syrup (Large)
+9706-96992,Champaign - 5th & Green,Company Owned,503 E. Green Street,Champaign,IL,US,618205719,217-344-8613,GMT-06:00 America/Chicago,-88.23,40.11,48.424,12.536,-1.846,145,21053,Iced Mocha (Small)
+25140-240095,South Neil & Carriage Center,Company Owned,2011 S. Neil St.,Champaign,IL,US,61820,2177223209,GMT-06:00 America/Chicago,-88.25,40.09,26.498,1.548,10.676,83,1809,Iced Mocha (Medium)
+13613-106969,Charleston-Lincoln & E St,Company Owned,437 W Lincoln Avenue,Charleston,IL,US,619203022,217 345 5553,GMT-06:00 America/Chicago,-88.19,39.48,46.448,11.469,-0.547,140,19904,Iced Mocha (Large)
+15963-166069,Target Chicago T-2781,Licensed,1101 W Jackson Blvd,Chicago,IL,US,606072905,312-279-3340,GMT-06:00 America/Chicago,-87.65,41.88,17.082,4.022,0.229,56,18804,Iced Mocha with Nonfat Milk (Small)
+2877-88641,Washington & Clinton,Company Owned,40 N. Clinton St.,Chicago,IL,US,60661,312/463-0331,GMT-06:00 America/Chicago,-87.64,41.88,37.224,10.682,-3.719,113,23749,Iced Mocha with Nonfat Milk (Medium)
+202-161424,Oak & Rush,Company Owned,1003 N Rush Street,Chicago,IL,US,60611,3129515436,GMT-06:00 America/Chicago,-87.63,41.9,22.673,3.826,3.631,72,12402,Iced Mocha with Nonfat Milk (Large)
+76178-93198,Target Chicago T-1879,Licensed,4433 S Pulaski,Chicago,IL,US,606324010,773-579-2120,GMT-06:00 America/Chicago,-87.72,41.81,35.195,9.714,-2.666,108,22695,Iced Caramel Mocha (Small)
+75762-95258,"ORD OHare Terminal 3, Baggage Claim",Licensed,Circular Building #6,Chicago,IL,US,60666,773-686-6180,GMT-06:00 America/Chicago,-87.9,41.98,34.053,8.048,0.392,104,18888,Iced Caramel Mocha (Medium)
+2659-66300,State Rd 135 & Stonegate,Company Owned,"1011 N. State Rd 135, Greenwood Park",Greenwood,IN,US,461421355,3178832772,GMT-05:00 America/Indianapolis,-86.16,39.63,46.584,12.325,-2.360,140,21600,Iced Caramel Mocha (Large)
+28536-249966,Teavana - Greenwood Park,Company Owned,"1251 US Highway 31 N., #C10A, Greenwood Park Mall",Greenwood,IN,US,46142,317-883-3283,GMT-05:00 America/Indianapolis,-86.13,39.63,29.040,1.778,11.520,90,2079,Iced Nonfat Caramel Mocha (Small)
+13529-105327,Greenwood Park Mall,Company Owned,"1251 U.S. Highway 31 North, D07, Shoppes at Meridians Market",Greenwood,IN,US,461424503,317-865-1452,GMT-05:00 America/Indianapolis,-86.12,39.63,36.954,2.744,13.601,113,3329,Iced Nonfat Caramel Mocha (Medium)
+13949-109207,SR 135 & Faith,Company Owned,311 S. State Rd 135,Greenwood,IN,US,461421423,317-859-8926,GMT-05:00 America/Indianapolis,-86.16,39.61,48.570,2.887,19.459,146,1907,Iced Nonfat Caramel Mocha (Large)
+25514-241210,"Indianapolis & Interstate, Hammond",Company Owned,7843 Indianapolis Blvd,Hammond,IN,US,46324,2193020738,GMT-06:00 America/Chicago,-87.48,41.57,46.541,9.602,3.609,140,16006,Frappé Mocha (Small)
+76221-90437,Target Highland T-731,Licensed,10451 Indianapolis Blvd,Highland,IN,US,463223511,219-924-1527,GMT-06:00 America/Chicago,-87.47,41.52,45.004,2.608,18.179,136,1763,Frappé Mocha (Medium)
+2760-77380,56th & Lafayette,Company Owned,"5550 Lafayette, Castleton Square Mall",Indianapolis,IN,US,462541697,317-328-0247,GMT-05:00 America/Indianapolis,-86.26,39.85,27.482,5.575,2.340,86,15675,Frappé Mocha (Large)
+19031-196084,Castleton Square Mall Kiosk,Company Owned,6020 East 82nd Street,Indianapolis,IN,US,46250,3178427480,GMT-05:00 America/Indianapolis,-86.07,39.91,18.935,1.213,7.395,61,2348,Frappé Caramel (Small)
+13618-97252,Kessler & Michigan,Company Owned,"1950 W Kessler Blvd, Suite 1",Indianapolis,IN,US,462281880,317-257-2031,GMT-05:00 America/Indianapolis,-86.2,39.86,32.936,9.276,-2.904,101,23237,Frappé Caramel (Medium)
+75958-101096,Hyatt Regency-Indianapolis-Lobby,Licensed,"1 S Capitol Ave, Circle Tower Building",Indianapolis,IN,US,462042728,317-616-6106,GMT-05:00 America/Indianapolis,-86.16,39.77,33.291,9.452,-3.103,102,23457,Frappé Caramel (Large)
+15945-162844,Fort Hays State University,Licensed,700 College Drive,Hays,KS,US,676014009,285-628-5396,GMT-06:00 America/Chicago,-99.34,38.87,40.352,10.551,-1.768,122,21302,Frappé Chocolate Chip (Small)
+29012-251545,Dillons - Hays #61,Licensed,1902 Vine St,Hays,KS,US,67601,785-628-6137,GMT-06:00 America/Chicago,-99.32,38.88,26.703,4.054,5.271,83,10776,Frappé Chocolate Chip (Medium)
+19880-197704,Dillons - Hutchinson #97,Licensed,3200 East Plaza East Drive,Hutchinson,KS,US,67502,620-665-5579,GMT-06:00 America/Chicago,-97.92,38.11,36.823,2.135,14.873,112,1765,Frappé Chocolate Chip (Large)
+8610-93709,17th & Lorraine,Company Owned,1502 E. 17th Ave.,Hutchinson,KS,US,675011113,620-669-5361,GMT-06:00 America/Chicago,-97.9,38.07,36.109,3.397,11.716,110,5231,Blueberry Pomegranate Smoothie (Small)
+19226-192745,Junction City - I70 & Chestnut,Company Owned,814 E. Chestnut Street,Junction City,KS,US,66441,7852230137,GMT-06:00 America/Chicago,-96.82,39.02,15.326,2.123,3.474,51,9499,Blueberry Pomegranate Smoothie (Medium)
+23752-203465,"Price Chopper - Kansas City, KS #6",Licensed,7600 State Avenue,Kansas City,KS,US,66112,913-999-8298,GMT-06:00 America/Chicago,-94.76,39.12,35.899,6.203,5.431,110,12788,Blueberry Pomegranate Smoothie (Large)
+20830-207104,10620 Parallel Prkwy-KCK Speedway,Company Owned,"10620 Parallel Pkwy, TBD",Kansas City,KS,US,66109,9133281078,GMT-06:00 America/Chicago,-94.83,39.13,28.664,1.852,11.158,89,2403,Strawberry Banana Smoothie (Small)
+76725-102051,Target Kansas City T-2222,Licensed,10900 Stadium Pkwy,Kansas City,KS,US,661118100,913-905-0316,GMT-06:00 America/Chicago,-94.83,39.13,46.934,13.514,-4.789,141,23842,Strawberry Banana Smoothie (Medium)
+72838-92967,Dillon Food Store-Lawrence #70,Licensed,1015 W 23rd,Lawrence,KS,US,660464412,785-841-3366,GMT-06:00 America/Chicago,-95.25,38.94,29.899,4.441,6.119,93,10459,Strawberry Banana Smoothie (Large)
+18519-174524,"Bauer Farms, W. 6th Street",Company Owned,4701 Bauer Farm Drive,Lawrence,KS,US,660499085,7858383730,GMT-06:00 America/Chicago,-95.3,38.97,42.792,7.247,6.798,129,12458,Mango Pineapple Smoothie (Small)
+75644-78743,New Orleans Marriott Convention Ctr,Licensed,"800 Convention Center Blvd, The Shops at Canal Place",New Orleans,LA,US,701301753,504-613-2888,GMT-06:00 America/Chicago,-90.06,29.94,15.915,1.455,5.257,53,4976,Mango Pineapple Smoothie (Medium)
+6298-1753,Canal Place,Company Owned,"333 Canal St., Suite 2070   Room 129 & 129A",New Orleans,LA,US,701301108,5045661223,GMT-06:00 America/Chicago,-90.07,29.95,37.117,4.438,9.961,113,7679,Mango Pineapple Smoothie (Large)
+72117-3469,Sheraton Lobby,Licensed,500 Canal Street,New Orleans,LA,US,701302306,504-525-2500,GMT-06:00 America/Chicago,-90.07,29.95,31.328,8.873,-2.872,97,23389,Vanilla Shake (Small)
+6314-6908,Magazine & Washington,Company Owned,2801 Magazine Street,New Orleans,LA,US,701152261,504/897-4944,GMT-06:00 America/Chicago,-90.08,29.93,44.154,12.329,-3.659,133,23006,Vanilla Shake (Medium)
+16183-100139,Hyatt New Orleans,Licensed,601 Loyola Ave,New Orleans,LA,US,70113,504-587-4118,GMT-06:00 America/Chicago,-90.08,29.95,20.106,5.257,-0.880,65,21300,Vanilla Shake (Large)
+13253-106320,Jefferson Hwy & Upstream St,Company Owned,9301 Jefferson Hwy,River Ridge,LA,US,701232805,504-738-3373,GMT-06:00 America/Chicago,-90.21,29.95,29.055,6.856,0.357,90,18854,Strawberry Shake (Small)
+10375-99782,I-20 & Cooktown,Company Owned,1200 Cooktown Rd,Ruston,LA,US,712703139,318-255-9219,GMT-06:00 America/Chicago,-92.65,32.54,24.018,4.276,3.358,76,13289,Strawberry Shake (Medium)
+78073-106971,Barksdale AFB,Licensed,Barksdale AFB,Shreveport,LA,US,71110,3186550565,GMT-06:00 America/Chicago,-93.66,32.51,39.505,9.572,-0.064,120,19461,Strawberry Shake (Large)
+18029-182674,Kroger Shreveport # 539,Licensed,6652 Youree Dr,Shreveport,LA,US,71105,318-795-9944,GMT-06:00 America/Chicago,-93.72,32.45,21.969,6.409,-2.424,70,24205,Chocolate Shake (Small)
+47251-251624,Kroger - Shreveport #533,Licensed,9484 Ellerbe Road,Shreveport,LA,US,71106,3185176972,GMT-06:00 America/Chicago,-93.73,32.39,20.123,1.031,8.425,65,1119,Chocolate Shake (Medium)
+11848-105625,"Beverly, 242 Elliott St",Company Owned,242 Elliott St.,Beverly,MA,US,19152419,978-927-0748,GMT-05:00 America/New_York,-70.89,42.56,39.580,10.700,-2.507,120,22153,Chocolate Shake (Large)
+8650-20641,Billerica,Company Owned,"199 Boston Road, Unit 15",Billerica,MA,US,18622328,978-436-9180,GMT-05:00 America/New_York,-71.29,42.58,20.307,1.661,7.136,65,4054,Shamrock Shake (Medium)
+22253-218826,1304 Commonwealth Ave.,Company Owned,1304 Commonwealth Avenue,Boston,MA,US,2134,6175661074,GMT-05:00 America/New_York,-71.13,42.35,15.771,3.640,0.374,52,18355,Shamrock Shake (Large)
+7544-27387,755 Boylston St,Company Owned,"755 Boylston Street, Trilogy",Boston,MA,US,21162618,617-450-0310,GMT-05:00 America/New_York,-71.08,42.35,34.105,6.474,3.881,105,14424,McFlurry with M&M’s Candies (Small)
+11726-105182,Fenway Triangle Trilogy,Company Owned,142-148 Brookline Avenue,Boston,MA,US,22153907,6178676545,GMT-05:00 America/New_York,-71.1,42.34,39.419,9.914,-0.862,120,20344,McFlurry with M&M’s Candies (Medium)
+25967-242726,Smiths Fort Mohave #473,Licensed,4747 Highway 95,Fort Mohave,AZ,US,86426,9283303700,GMT+000000 America/Phoenix,-114.6,35.02,21.551,3.344,4.095,69,11097,McFlurry with M&M’s Candies (Snack)
+74975-101172,Safeway - Fort Mohave #1474,Licensed,4823 S Hwy 95,Fort Mohave,AZ,US,864268314,928-704-4433,GMT+000000 America/Phoenix,-114.6,35.02,16.385,1.435,5.550,54,4610,McFlurry with Oreo Cookies (Small)
+5586-1312,E. Palisades & Ave of the Fountain,Company Owned,"16425 E. Palisades Blvd., Suite 101",Fountain Hills,AZ,US,852683754,480-816-6969,GMT+000000 America/Phoenix,-111.73,33.61,34.332,8.798,-1.110,105,20800,McFlurry with Oreo Cookies (Medium)
+74539-65039,Safeway - Fountain Hills #1291,Licensed,13733 Fountain Hills Blvd,Fountain Hills,AZ,US,852683730,480-837-0287,GMT+000000 America/Phoenix,-111.73,33.61,22.208,6.406,-2.292,71,23893,McFlurry with Oreo Cookies (Snack)
+20344-204610,Target Fountain Hills T-1432,Licensed,16825 E. Shea Boulevard,Fountain Hills,AZ,US,85268,480-837-8557,GMT+000000 America/Phoenix,-111.72,33.57,48.745,7.053,10.387,146,10091,McFlurry with Reese's Peanut Butter Cups (Medium)
+76302-96624,Super Target Gilbert ST-1960,Licensed,3931 S Gilbert Rd,Gilbert,AZ,US,852972004,480-281-0201,GMT+000000 America/Phoenix,-111.79,33.28,20.229,2.844,4.494,65,9696,McFlurry with Reese's Peanut Butter Cups (Snack)
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
